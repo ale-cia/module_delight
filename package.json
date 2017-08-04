@@ -1,0 +1,24 @@
+{
+  "name": "module_delight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ale-cia/module_delight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ale-cia/module_delight/issues"
+  },
+  "homepage": "https://github.com/ale-cia/module_delight#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "numeral": "^2.0.6"
+  }
+}
